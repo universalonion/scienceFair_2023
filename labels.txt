@@ -1,0 +1,6 @@
+0 Plastic Bag
+1 Crush Bottle 
+2 Soda Can
+3 Water Jug
+4 Plastic Cup
+5 Aditi
